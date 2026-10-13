@@ -61,4 +61,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 5 – Semantic HTML](https://github.com/abhishekjambhale18-creator/BiteBox-Semantic-HTML) | Next Lab Coming Soon →
+← [Lab 5 – Semantic HTML](https://github.com/abhishekjambhale18-creator/BiteBox-Semantic-Structure) | Next Lab Coming Soon →
